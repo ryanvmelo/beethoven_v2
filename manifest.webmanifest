@@ -1,0 +1,18 @@
+{
+    "short_name": "Beethoven",
+    "name": "Projeto Beethoven",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "O seu novo jeito de ouvir música",
+    "icons": [
+      {
+        "src": "img/logo2.png",
+        "type": "image/png",
+        "sizes": "2560x2560"
+      }
+    ]
+  }
